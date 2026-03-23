@@ -6,4 +6,7 @@ import tailwindcss from "@tailwindcss/vite";
 export default defineConfig({
   site: 'https://criafil.github.io',
   base: '/criafil.github.io',
+  vite: {
+    plugins: [tailwindcss()],
+  },
 });
