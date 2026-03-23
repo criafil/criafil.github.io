@@ -93,7 +93,8 @@ export const siteConfig = {
     {
       school: "University Alexandru Ioan Cuza",
       degree: "Bachelor in Computer Science",
-      dateRange: "2008 - 2012"
+      dateRange: "2008 - 2012",
+      achievements: []
     }
   ],
 };
