@@ -87,7 +87,6 @@ export const siteConfig = {
       ],
       skills: ["C#", "ASP.NET", "Entity Framework", "MS SQL 2008", "jQuery", "Twitter Bootstrap", "Umbraco CMS", "Facebook Graph API", "Twitter API"],
     },
-    
   ],
   education: [
     {
